@@ -5,7 +5,7 @@ After a fulfilling six-year career as a dental assistant, I am pursuing a degree
 
 * 🌍  I'm based in Florence, Alabama
 * ✉️  You can contact me at [bdaniel3@una.edu](mailto:bdaniel3@una.edu)
-
+* &#128204; Developer Profile <a href="https://bdaniel3.github.io/bdaniel3/">Click here!</a>
 <a href="https://www.github.com/bdaniel3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bdaniel3?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
 
